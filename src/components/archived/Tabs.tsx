@@ -1,5 +1,5 @@
-import React, { ReactNode, useState } from "react";
-import TabTitle from "./archived/TabTitle";
+import React, { ReactElement, ReactNode, useState } from "react";
+import TabTitle from "./TabTitle";
 
 type Props = {
   children: ReactNode[];
